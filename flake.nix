@@ -23,7 +23,6 @@
             build-tools-30-0-3
             platform-tools
             platforms-android-33
-            patcher-v4
             emulator
           ]);
         devshells.default = {
